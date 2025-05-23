@@ -17,7 +17,7 @@ img {
     width: 100%;
 }
 .topnav {
-    background-color: #ff0000;
+    background-color: #000000;
     overflow: hidden;
   }
   
@@ -39,7 +39,7 @@ img {
   
   /* Add a color to the active/current link */
   .topnav a.active {
-    background-color: #04AA6D;
+    background-color: #cf0000;
     color: white;
   }
 /* The hero section styling- use your OWN Hero Image URL here */
@@ -66,7 +66,7 @@ img {
     color: white;
     font-size: 2em;
     padding: 0.1em 3em;
-    background-color: rgb(71, 71, 71);
+    background-color: rgb(194, 0, 0);
 }
 
 /* Three column grid with a nice big gap */
@@ -81,7 +81,7 @@ img {
 }
 
 .topic-card{
-    background-color: rgb(71, 71, 71);
+    background-color: rgb(58, 52, 52);
     color: white;
     padding: 1em;
     border-radius: 0.5em;
