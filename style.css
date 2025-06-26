@@ -39,7 +39,7 @@ img {
   
   /* Add a color to the active/current link */
   .topnav a.active {
-    background-color: #cf0000;
+    background-color: rgb(194, 0, 0);
     color: white;
   }
 /* The hero section styling- use your OWN Hero Image URL here */
