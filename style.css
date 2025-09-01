@@ -66,7 +66,7 @@ img {
     color: white;
     font-size: 2em;
     padding: 0.1em 3em;
-    background-color: rgb(194, 0, 0);
+    background-color: #bd0000
 }
 
 /* Three column grid with a nice big gap */
@@ -99,4 +99,9 @@ img {
     color: white;
     text-align: right;
     padding: 3em 3em;
+}
+
+iframe{
+    justify-content: center;
+    align-items: center;
 }
